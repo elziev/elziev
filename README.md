@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elziev (Carl Elziev)
 - 👀 I’m interested in cryptography
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning a lot of different technologies
 - 💞️ I’m looking to collaborate on blockchain solutions
 - 📫 How to reach me carl.elziev@protonmail.com
 
